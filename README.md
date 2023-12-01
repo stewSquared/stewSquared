@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🎄 I'm currently doing Advent of Code 2023, and I'd like to share the experience with you!
+- 🔴 I live stream every night on [Twitch](https://twitch.tv/stewSquared) and [YouTube](https://youtube.com/@stewSquared).
+- :octocat: All of my code is [right here](https://github.com/stewSquared/advent-of-code) on GitHub.
+- 📊 Compete on my [leaderboard](https://adventofcode.com/2023/leaderboard/private/view/1567548) with code `1567548-37bb9c26`.
+- 💬 Or chat with me about it in [Discord](https://discord.gg/SgZemzbHPa).
 
 <!--
 **stewSquared/stewSquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
